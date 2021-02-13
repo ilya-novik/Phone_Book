@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Problems/Car speed/out/
+/Problems/Car speed/out/production/classes/
+/Problems/Exabytes/out/
+/Problems/Exabytes/out/production/classes/
+/Problems/Fractional part/out/
+/Problems/Fractional part/out/production/classes/
+/Problems/Not  predicate/out/
+/Problems/Not  predicate/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
